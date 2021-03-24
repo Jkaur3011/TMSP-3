@@ -1,0 +1,159 @@
+body{
+    text-align: center
+}
+
+marquee{
+    background-color:forestgreen;
+    color: white;
+    font-size: 15px;
+}
+iframe{
+    margin-top: 5px;
+}
+h1{
+    font-family:fantasy;
+    color: blue
+}
+#TMSP{
+    background-color: skyblue;
+}
+section{
+    margin-top: 50px;
+}
+a{
+    color:burlywood;
+}
+.menu{
+    position: fixed;
+}
+#image1{
+    width: 50px;
+    height: 50px;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+#mam{
+    margin-left: 200px;
+}
+h3{
+    margin-right:500px;
+    font-size: 18px;
+    font-family:monospace;
+}
+#contact{
+    background-color: blueviolet;
+}
+h4{
+    margin-right: 500px;
+    font-size: 15px;
+}
+.ma hover{
+    color:aqua;
+   
+}
+.ma{
+     margin-right: 330px;
+}
+#insta{
+    margin-right: 500px;
+}
+#call{
+margin-right: 450px;
+
+}
+.campus{
+    background-color: antiquewhite;
+}
+.campus_mainDiv{
+    border: 1px solid green;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+.campus_mainDiv hr{
+    width: 220px;
+}
+.campus_mainDiv h5,.campus_mainDiv p{
+    margin-left: 20px;
+}
+.campus_mainDiv img{
+    width: 100%
+}
+.down hover{
+    cursor: pointer;
+}
+.down{
+    margin-left: 1000px;
+}
+.hi{
+    margin-left: 10;
+}
+#school{
+    background-color: lightblue;
+}
+.school_li {
+    margin-top: 13px;
+    margin-left: 0px;
+    margin-right: 10000px;
+}
+
+.school_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.school_li img {
+    border-radius: 25px;
+}
+
+.school_li p {
+    margin-top: 10px;
+}
+.down hover{
+    cursor: pointer;
+}
+.down{
+    margin-left: 1010px;
+}
+.right{
+    margin-left: 10px;
+}
+.re{
+    color: yellowgreen;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.school_li {
+    margin-top: 13px;
+}
+
+.school_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.school_li img {
+    border-radius: 25px;
+}
+
+.school_li p {
+    margin-top: 10px;
+}
